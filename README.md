@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JasonFevang
+- 👀 I’m interested in microcontrollers, LEDs, ESP32s and reverse engineering
+- 🌱 I’m currently learning Rust, embedded linux development, and Gatsby.js
+- 📫 How to reach me: jasonfevang@gmail.com
